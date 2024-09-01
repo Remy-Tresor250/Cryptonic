@@ -82,3 +82,4 @@ Add recipient handling in _executeWithToken
 Fix token approval and gas payment validation
 Optimize gas usage in airdrop distribution
 Add view function to fetch airdrop recipients
+Deploy airdrop contract to Axelar testnet
