@@ -79,3 +79,4 @@ Integrate IPFS for decentralized asset storage
 Initialize Axelar cross-chain airdrop contract
 Implement cross-chain token transfer logic
 Add recipient handling in _executeWithToken
+Fix token approval and gas payment validation
