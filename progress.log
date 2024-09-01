@@ -85,3 +85,4 @@ Add view function to fetch airdrop recipients
 Deploy airdrop contract to Axelar testnet
 Integrate frontend for airdrop claims
 Add unit tests for cross-chain airdrop
+Update docs for Axelar GMP integration
