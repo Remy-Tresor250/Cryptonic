@@ -77,3 +77,4 @@ Setup CI/CD for contract deployment
 Write documentation for Web3 interaction
 Integrate IPFS for decentralized asset storage
 Initialize Axelar cross-chain airdrop contract
+Implement cross-chain token transfer logic
