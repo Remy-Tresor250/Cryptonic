@@ -68,3 +68,4 @@ Initialize smart contract scaffold
 Add ERC-20 token logic
 Implement staking mechanism
 Fix airdrop eligibility check
+Optimize gas usage
