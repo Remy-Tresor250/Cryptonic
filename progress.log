@@ -74,3 +74,4 @@ Deploy smart contracts to testnet
 Implement frontend wallet connection
 Add Telegram bot for airdrop distribution
 Setup CI/CD for contract deployment
+Write documentation for Web3 interaction
