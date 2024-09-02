@@ -65,3 +65,4 @@ Integrate frontend for airdrop claims
 Add unit tests for cross-chain airdrop
 Update docs for Axelar GMP integration
 Initialize smart contract scaffold
+Add ERC-20 token logic
