@@ -72,3 +72,4 @@ Optimize gas usage
 Add unit tests for token functions
 Deploy smart contracts to testnet
 Implement frontend wallet connection
+Add Telegram bot for airdrop distribution
