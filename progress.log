@@ -69,3 +69,4 @@ Add ERC-20 token logic
 Implement staking mechanism
 Fix airdrop eligibility check
 Optimize gas usage
+Add unit tests for token functions
